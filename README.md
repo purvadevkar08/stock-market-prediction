@@ -102,3 +102,45 @@ stock-market-prediction/
 ├── stock_scaler.pkl
 ├── requirements.txt
 └── README.md
+
+## 📸 Streamlit Application Output
+
+The Stock Market Prediction App provides predictions using three machine learning approaches:
+
+### 1. Linear Regression
+
+Linear Regression is used to predict stock closing prices based on date-related features.
+
+![Linear Regression Home](screenshots/linear_regression_home.png)
+
+![Linear Regression Prediction](screenshots/linear_regression_prediction.png)
+
+![Linear Regression Graph](screenshots/linear_regression_graph.png)
+
+![Linear Regression Result](screenshots/linear_regression_result.png)
+
+
+### 2. Random Forest
+
+Random Forest Regression is used to model nonlinear relationships and predict stock prices.
+
+![Random Forest Home](screenshots/random_forest_home.png)
+
+![Random Forest Prediction](screenshots/random_forest_prediction.png)
+
+![Random Forest Graph](screenshots/random_forest_graph.png)
+
+![Random Forest Result](screenshots/random_forest_result.png)
+
+
+### 3. LSTM Deep Learning
+
+LSTM (Long Short-Term Memory) is used for time-series stock price prediction.
+
+![LSTM Home](screenshots/lstm_home.png)
+
+![LSTM Prediction](screenshots/lstm_prediction.png)
+
+![LSTM Graph](screenshots/lstm_graph.png)
+
+![LSTM Result](screenshots/lstm_result.png)
